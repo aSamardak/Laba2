@@ -1,0 +1,15 @@
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/bin/Debug/net7.0/Laba2
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/bin/Debug/net7.0/Laba2.deps.json
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/bin/Debug/net7.0/Laba2.runtimeconfig.json
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/bin/Debug/net7.0/Laba2.dll
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/bin/Debug/net7.0/Laba2.pdb
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/obj/Debug/net7.0/Laba2.csproj.AssemblyReference.cache
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/obj/Debug/net7.0/Laba2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/obj/Debug/net7.0/Laba2.AssemblyInfoInputs.cache
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/obj/Debug/net7.0/Laba2.AssemblyInfo.cs
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/obj/Debug/net7.0/Laba2.csproj.CoreCompileInputs.cache
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/obj/Debug/net7.0/Laba2.dll
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/obj/Debug/net7.0/refint/Laba2.dll
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/obj/Debug/net7.0/Laba2.pdb
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/obj/Debug/net7.0/Laba2.genruntimeconfig.cache
+/Users/dunice-ios-1/Desktop/Laba2/Laba2/obj/Debug/net7.0/ref/Laba2.dll
